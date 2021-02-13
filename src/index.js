@@ -4,11 +4,12 @@ import './index.css';
 
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
 import Home from './pages/Home';
-import CadastroVideo from './pages/cadastro/Video';
-import CadastroCategoria from './pages/cadastro/Categoria';
+import CadastroVideo from './pages/Cadastro/Video';
+import CadastroCategoria from './pages/Cadastro/Categoria';
+
 
 // Desafio - implementar jogo nessa página: https://www.youtube.com/watch?v=jOAU81jdi-c :)
-const Pagina404 = () => (<div>Página 404</div>)
+const Pagina404 = () => ( <h1>"Página não encontrada!"</h1>)
 
 ReactDOM.render(
     <BrowserRouter>

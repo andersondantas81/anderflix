@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Hinos do Clube",
+      "link": "https://fortaleza1918.com.br/simbolos/",
+      "cor": "#E0221D",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Wikipedia - História do hino",
+        "url": "https://pt.wikipedia.org/wiki/Fortaleza_Esporte_Clube#Hino"
       },
       "videos": [
         {
@@ -14,68 +14,88 @@
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Hino oficial do Fortaleza Esporte Clube",
+          "url": "https://www.youtube.com/watch?v=BHSAxofET5I"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Hino do Fortaleza Esporte Clube, Raimundo Fagner(Rock)",
+          "url": "https://www.youtube.com/watch?v=kZJexq6ybS8"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Hino do Fortaleza Esporte Clube em violão",
+          "url": "https://www.youtube.com/watch?v=UXGYGoAnU2w"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Hino do Fortaleza Esporte Clube - Versão Globo",
+          "url": "https://www.youtube.com/watch?v=ERRF_3_ve5o"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Hino do Fortaleza Esporte Clube - Versão Frances",
+          "url": "https://www.youtube.com/watch?v=QaiV9Ob2poo"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Hino do Fortaleza Esporte Clube - Versão Forró/Sanfona",
+          "url": "https://www.youtube.com/watch?v=cNFBUdlZ4YQ"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Hino do Fortaleza Esporte Clube - VersãoEl Himno",
+          "url": "https://www.youtube.com/watch?v=r_qyNRz7byQ"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Músicas",
+      "cor": "#2964A6",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Mais músicas para o Fortaleza EC",
+        "url": "https://www.youtube.com/results?search_query=+musicas+do+fortaleza+esporte+clube"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Dá-lhe, Dá-lhe tricolor",
+          "url": "https://www.youtube.com/watch?v=UiVdPGGLRpA&list=PLt4cgto5NjdUH5R4PW4VTZpo6Md12yTY7"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "FORTALEZA ETERNO AMOR",
+          "url": "https://www.youtube.com/watch?v=t19cPpi0qkk&list=PLt4cgto5NjdUH5R4PW4VTZpo6Md12yTY7&index=2"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Leão, nós gostamos de você!",
+          "url": "https://www.youtube.com/watch?v=n8FDmVqw4OU&list=PLt4cgto5NjdUH5R4PW4VTZpo6Md12yTY7&index=3"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Tricolor até morrer!",
+          "url": "https://www.youtube.com/watch?v=uvYEPQ8gPc8&list=PLt4cgto5NjdUH5R4PW4VTZpo6Md12yTY7&index=6"
+        },
+        {
+          "titulo": "Eternamente FEC",
+          "url": "https://www.youtube.com/watch?v=cU01kYFomSc&list=PLt4cgto5NjdUH5R4PW4VTZpo6Md12yTY7&index=7"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "SOU FORTALEZA",
+          "url": "https://www.youtube.com/watch?v=cLMjFpb1-Ko&list=PLt4cgto5NjdUH5R4PW4VTZpo6Md12yTY7&index=8"
+        },
+        {
+          "titulo": "Quero de ver campeão!",
+          "url": "https://www.youtube.com/watch?v=8CzZawsP94g&list=PLt4cgto5NjdUH5R4PW4VTZpo6Md12yTY7&index=17"
+        },
+        {
+          "titulo": "COMEÇOU O CHORORÓÓ..",
+          "url": "https://www.youtube.com/watch?v=Wo0hfn_44L0&list=PLt4cgto5NjdUH5R4PW4VTZpo6Md12yTY7&index=18"
+        },
+        {
+          "titulo": "Essência Tricolor(100 Anos De tradição)",
+          "url": "https://www.youtube.com/watch?v=6e_aZxh0C_Y&list=PLt4cgto5NjdUH5R4PW4VTZpo6Md12yTY7&index=19"
+        },
+        {
+          "titulo": "Bate de frente.",
+          "url": "https://www.youtube.com/watch?v=oTUUGl2-jkk&list=PLcMr4cgJFj-gy-xBjlKUy8I3TzAXcwouI"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Narração de jogos marcantes",
+      "cor": "#E0221D",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -100,8 +120,8 @@
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Gols históricos",
+      "cor": "#2964A6",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -122,8 +142,8 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Torcida",
+      "cor": "E0221D",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -152,8 +172,8 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Geral",
+      "cor": "#2964A6",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"

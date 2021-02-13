@@ -19,6 +19,7 @@ export const Title = styled.h3`
 `;
 
 export const ExtraLink = styled.a`
+  color: #A81D26;
   margin-left: 16px;
   text-decoration: none;
   transition: opacity .3s;
