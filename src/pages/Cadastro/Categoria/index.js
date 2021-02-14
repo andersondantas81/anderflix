@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import PageDefault from '../../../components/PageDefault';
+import PageDefault from '../../../components/Templates/PageDefault';
 import FormField from '../../../components/FormField';
 
 function CadastroCategoria() {
