@@ -9,7 +9,11 @@ import CadastroCategoria from './pages/Cadastro/Categoria';
 
 
 // Desafio - implementar jogo nessa página: https://www.youtube.com/watch?v=jOAU81jdi-c :)
-const Pagina404 = () => ( <h1>"Página não encontrada!"</h1>)
+const Pagina404 = () => ( 
+  <h1 style={{ 'text-align':'center' }}>
+    Página não encontrada!
+  </h1>
+);
 
 ReactDOM.render(
     <BrowserRouter>
@@ -19,6 +23,6 @@ ReactDOM.render(
         <Route path='/cadastro/categoria' component={CadastroCategoria} />
         <Route component={Pagina404} />
       </Switch>   
-    </BrowserRouter> ,
+    </BrowserRouter>,
   document.getElementById('root')
 );
